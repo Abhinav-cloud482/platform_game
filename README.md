@@ -83,7 +83,7 @@ platformer-game/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -93,19 +93,17 @@ Contributions are welcome!
 4. Push to the branch
 5. Open a Pull Request
 
----
-
-## 📄 License
+## License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * Built using the Pygame library
 * Inspired by classic 2D platformer games
 
 ---
 
-Enjoy the game! 🎉
+Enjoy the game! 
