@@ -73,15 +73,13 @@ platformer-game/
 <img width="978" height="544" alt="Output" src="https://github.com/user-attachments/assets/2237cbd5-b54c-4e79-a01d-77287330ab1b" />
 
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Add sound effects and background music
 * Add animations for player and enemies
 * Introduce more complex levels
 * Add a main menu and pause system
 * Implement health/lives system
-
----
 
 ## Contributing
 
@@ -97,13 +95,9 @@ Contributions are welcome!
 
 This project is open-source and available under the MIT License.
 
----
-
 ## Acknowledgements
 
 * Built using the Pygame library
 * Inspired by classic 2D platformer games
 
----
-
-Enjoy the game! 
+## Author 
