@@ -68,7 +68,7 @@ platformer-game/
 └── README.md        # Project documentation
 ```
 
-## Screenshots (Optional)
+## Screenshots
 
 <img width="978" height="544" alt="Output" src="https://github.com/user-attachments/assets/2237cbd5-b54c-4e79-a01d-77287330ab1b" />
 
